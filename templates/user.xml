@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="cot" value="console.log('test')" toReformat="true" toShortenFQNames="true">
+  <template name="cot" value="console.log('test')" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JS_STATEMENT" value="true" />
     </context>
